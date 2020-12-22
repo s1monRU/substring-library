@@ -1,0 +1,4 @@
+{
+    "maxSize": 8388608,
+    "mimeTypes": ["text/plain", "text/csv", "text/css", "text/html", "text/xml"]
+}

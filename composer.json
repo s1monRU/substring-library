@@ -1,0 +1,22 @@
+{
+  "name": "dummy/dummy",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "s1mon",
+      "email": "user@gmail.com"
+    }
+  ],
+  "require": {
+    "php": "^7.4",
+    "ext-fileinfo": "*",
+    "ext-json": "*"
+  },
+    "autoload": {
+      "psr-4": {
+        "SubstringLibrary\\": "SubstringLibrary/"
+      }
+    }
+}
